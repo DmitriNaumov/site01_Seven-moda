@@ -1,0 +1,17 @@
+@font-face {
+/* название шрифта*/
+font-family: 'Roboto';
+/* адрес шрифта и тип */
+src: url("../font/Roboto-Regular.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+} 
+
+@font-face {
+/*название шрифта*/
+font-family: 'Roboto Bold';
+/* адрес шрифта и тип */
+src: url("../font/Roboto-Bold.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: bold; 
+}
